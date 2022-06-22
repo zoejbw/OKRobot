@@ -16,4 +16,4 @@ The bot functions as a glitch-hosted web application, with an arduino-activated 
 
 I think the current iteration is successful in playfully adding an emotional personality to a voice assistant-like text bot. We discussed our ideal framing for it being more of an independent free-standing device, which we were using the phone-arduino setup in place of. In further development, I would also like to change it to having true texting input, and a more intuitive speech-activated retreival system, both of which were currently limited by the use of the mobile web browser. <br>
 
-Hosted on Glitch:[input](https://emotional-textbot.glitch.me/) [output](https://emotional-textbot.glitch.me/output)
+Hosted on Glitch: [input](https://emotional-textbot.glitch.me/) [output](https://emotional-textbot.glitch.me/output)
