@@ -1,5 +1,5 @@
 # OKRobot
-Projects from OK Robot Reboot (2021)
+Projects from OK Robot Reboot
 
 ## AI AudioBook
 
