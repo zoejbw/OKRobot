@@ -7,7 +7,7 @@ Used variation voices in mac system ("deranged", "whispered", "hysterical"), to 
 
 Hosted on Glitch: [here](https://ai-audiobook.glitch.me/)
 
-## Emotional Textbot
+## Emotional Textbot (Alexa with a Hammer)
 Final Project - collaboration with Christshon David Harris <br>
 
 For this project Christshon and I were both interested in the strange social relationships to voice assistants like Siri and Alexa, including the classic question of "Should you be nice to them?". When it came down to it, we both liked the concept, inspired by the iconic roomba with a knife, of a voice assistant expressing rage--an Alexa with a hammer. With communication being increasingly digitally-mediated, we decided to have our robot serve the function of delivering text messages, with the added personality of interpreting and expressing tone.  <br>
